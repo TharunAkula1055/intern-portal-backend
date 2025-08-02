@@ -9,7 +9,7 @@ app.use(cors());
 const internData = {
     name: "Tharun Akula",
     referralCode: "tharun2025",
-    donationsRaised: 2500,
+    totalDonations: 2500,
     rewards: [
         "Bronze Badge",
         "Silver Badge",
